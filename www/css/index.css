@@ -56,6 +56,7 @@ li:nth-child(2n) {
 .fa-trash {
     font-size: 25px;
     font-weight: 500;
+    padding-top: 3px;
 }
 
 header {
