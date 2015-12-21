@@ -66,7 +66,6 @@ header {
     color: white;
     border-color: transparent;
     background: #2980b9;
-    margin: 0;
     float: left;
     width: 100%;
 }
@@ -74,7 +73,7 @@ header {
 .fa-plus {
     font-size: 30px;
     font-weight: bold;
-    padding: 10px;
+    padding: 5px;
 }
 
 input {
@@ -118,14 +117,8 @@ span {
     opacity: 1.0;
 }
 
-.segmented-control {
-    background: #2980b9;
-}
-
 table {
     width: 100%;
-    border: none;
-    border-spacing: 0px;
 }
 
 #newtodo {
